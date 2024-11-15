@@ -1,11 +1,16 @@
 _repo: The-old-house-and-other-stories_74695
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74695-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Ortmann, Blanche Sellers
     gutenberg_agent_id: '57603'
     url: http://www.gutenberg.org/2009/agents/57603
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74695#The-old-house-and-other-stories
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
